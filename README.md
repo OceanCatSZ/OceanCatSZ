@@ -15,8 +15,9 @@
 `Python` `PyTorch` `ROS` `OpenCV` `RL` `C++` `Linux` `Git` `Genesis` `Mujoco`
 
 ## 📫 Contact Me
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Email: shiyuzhang2003@gmail.com
+- School Email: shiyuzhang@umass.edu 
+- LinkedIn: [www.linkedin.com/in/shiyu-zhang-6b9a58250]
 
 ---
 > ✨ "Stay hungry. Stay foolish." – Steve Jobs
