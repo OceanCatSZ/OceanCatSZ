@@ -12,7 +12,7 @@
 - 📡 [Particle Filter Localization](https://github.com/ChatSam/Robotics_Triton_Project/): ROS-based localization with Lidar + Odom
 
 ## 🛠️ Skills
-`Python` `PyTorch` `ROS` `OpenCV` `RL` `C++` `Linux` `Git` `Genesis` `Mujoco`
+`Python` `Java` `Javascript` `PyTorch` `ROS` `OpenCV` `RL` `C++` `Linux` `Git` `Genesis` `Mujoco`
 
 ## 📫 Contact Me
 - Email: shiyuzhang2003@gmail.com
