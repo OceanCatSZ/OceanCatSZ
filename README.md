@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Shiyu Zhang
 
-<!--
-**OceanCatSZ/OceanCatSZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS student @ UMass | 🤖 Robotics & AI Enthusiast  
+🌱 Currently working on motion imitation & offline RL for humanoid robots  
+💡 Always learning & building
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🦿 [HCR-Humanoid](https://github.com/yourusername/HCR-Humanoid): Humanoid control using DeepMimic in Genesis Simulator  
+- 🧠 [AWAC+VAE Offline RL](https://github.com/yourusername/awac-vae): Modified AWAC algorithm with latent-space VAE  
+- 📱 [Uma Musume Automation](https://github.com/yourusername/uma-bot): AI bot to automate gameplay using ADB and OpenCV  
+- 📡 [Particle Filter Localization](https://github.com/yourusername/particle-filter): ROS-based localization with Lidar + Odom  
+
+## 🛠️ Skills
+`Python` `PyTorch` `ROS` `OpenCV` `RL` `C++` `Linux` `Git` `Genesis` `Mujoco`
+
+## 📫 Contact Me
+- Email: your.email@example.com  
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+---
+> ✨ "Stay hungry. Stay foolish." – Steve Jobs
