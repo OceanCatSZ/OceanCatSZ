@@ -7,7 +7,8 @@
 ## 🚀 Projects
 
 - 🦿 [HCR-Humanoid](https://github.com/minolta001/HCR-Humanoid): Humanoid control using DeepMimic in Genesis Simulator, still private until fully developed  
-- 🧠 [AWAC+VAE Offline RL](https://github.com/OceanCatSZ/awac-vae): Modified AWAC algorithm with latent-space VAE, still private until fully developed  
+- 🧠 [AWAC+VAE Offline RL](https://github.com/OceanCatSZ/awac-vae): Modified AWAC algorithm with latent-space VAE, still private until fully developed
+- 📡 [Quantum Repeater Simulation](https://github.com/OceanCatSZ/Quantum-Repeater-Sim): Simulation for Quantum Repeater with real world decoherence
 - 📱 [Uma Musume Automation](https://github.com/OceanCatSZ/UMA): AI bot to automate gameplay using ADB and OpenCV, , still private until fully developed  
 - 📡 [Particle Filter Localization](https://github.com/ChatSam/Robotics_Triton_Project/): ROS-based localization with Lidar + Odom
 
