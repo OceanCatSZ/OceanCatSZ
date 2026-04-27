@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shiyu Zhang
 
-🎓 **MS in Computer Science | [cite_start]BS in Computer Science**
+🎓 **MS in Computer Science | BS in Computer Science**
 🤖 **Researcher @ Human-Centered Robotics (HCR) Lab**
 🛰️ **Embodied AI & Quantum Networking Enthusiast**
 
