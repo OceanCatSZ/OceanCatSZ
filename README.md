@@ -1,24 +1,43 @@
 # 👋 Hi, I'm Shiyu Zhang
 
-🎓 CS student @ UMass | 🤖 Robotics & AI Enthusiast  
-🌱 Currently working on motion imitation & offline RL for humanoid robots  
-💡 Always learning & building
+🎓 **MS in Computer Science | [cite_start]BS in Computer Science**
+🤖 **Researcher @ Human-Centered Robotics (HCR) Lab**
+🛰️ **Embodied AI & Quantum Networking Enthusiast**
 
-## 🚀 Projects
-
-- 🦿 [HCR-Humanoid](https://github.com/minolta001/HCR-Humanoid): Humanoid control using DeepMimic in Genesis Simulator, still private until fully developed  
-- 🧠 [AWAC+VAE Offline RL](https://github.com/OceanCatSZ/awac-vae): Modified AWAC algorithm with latent-space VAE, still private until fully developed
-- 📡 [Quantum Repeater Simulation](https://github.com/OceanCatSZ/Quantum-Repeater-Sim): Simulation for Quantum Repeater with real world decoherence, published to arXiv: 2510.07471
-- 📱 [Uma Musume Automation](https://github.com/OceanCatSZ/UMA): AI bot to automate gameplay using ADB and OpenCV, and gym environment for gameplay RL traning, still private until fully developed  
-- 📡 [Particle Filter Localization](https://github.com/ChatSam/Robotics_Triton_Project/): ROS-based localization with Lidar + Odom
-
-## 🛠️ Skills
-`Python` `Java` `Javascript` `PyTorch` `ROS` `OpenCV` `RL` `C++` `Linux` `Git` `Genesis` `Mujoco`
-
-## 📫 Contact Me
-- Email: shiyuzhang2003@gmail.com
-- School Email: shiyuzhang@umass.edu 
-- LinkedIn: [www.linkedin.com/in/shiyu-zhang-6b9a58250]
+I specialize in **Humanoid Locomotion** and **Reinforcement Learning**, focusing on bridging the gap between simulation and real-world robotic control.
 
 ---
-> ✨ "Stay hungry. Stay foolish." – Steve Jobs
+
+## 🚀 Research & Projects
+
+### 🤖 [Robotics & RL](https://github.com/minolta001/HCR-Humanoid)
+* **Environmental-Aware Locomotion Adaptation**: Developed end-to-end RL policies using **PPO** and **Potential Fields** to enable real-time obstacle avoidance for humanoids.
+* **Behavioral Diversity & Motion Imitation**: Co-author of research submitted to **IEEE RA-L** regarding behavioral diversity in humanoid robots using Genesis and IsaacGym.
+* **Contact-Aware Motion Generation**: Built a **VQ-VAE** motion tokenizer and latent rollout generator to learn discrete codebooks for stable motion.
+
+### 📡 Quantum Systems
+* **[Quantum Repeater Simulation](https://github.com/OceanCatSZ/Quantum-Repeater-Sim)**: Co-first author of *"Simulation of Quantum Repeater Networks under Decoherence and Purification Constraints"* (published on **arXiv:2510.07471**).
+
+---
+
+## 🛠️ Technical Stack
+
+* **Languages:** Python, C++, C, C#, Java, SQL, R, JavaScript, TypeScript
+* **Frameworks & Tools:** PyTorch, IsaacGym, Genesis, Mujoco, ROS, Linux, Git
+* **Web & Backend:** ReactJS, Spring Boot, MySQL
+
+---
+
+## 🎻 Beyond the Code
+* **Violinist**: Having recitals with my friends.
+* **Athlete**: Active in **basketball** and **table tennis**.
+
+---
+
+## 📫 Connect with Me
+* 📧 **Email:** [shiyuzhang2003@gmail.com](mailto:shiyuzhang2003@gmail.com)
+* 🔗 **LinkedIn:** [shiyu-zhang](https://www.linkedin.com/in/shiyu-zhang)
+* 📍 **Location:** Amherst, MA
+
+---
+> 💡 *"Blurred mediocrity is more terrifying than clear failure."*
